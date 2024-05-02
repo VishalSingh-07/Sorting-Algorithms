@@ -1,8 +1,8 @@
-### Sorting Algorithms Repository ⚡⚡
+# Sorting Algorithms Repository ⚡⚡
 
 Welcome to the Sorting Algorithms Repository! 🚀 Here, you'll find implementations of various sorting algorithms in c++ programming languages.
 
-#### Algorithms Included: ✅✅
+## Algorithms Included: ✅✅
 - Bucket Sort
 - Bubble Sort
 - Count Sort
@@ -13,13 +13,13 @@ Welcome to the Sorting Algorithms Repository! 🚀 Here, you'll find implementat
 - Selection Sort
 - Shell Sort
 
-#### Implementation Details 🌟🌟:
+## Implementation Details 🌟🌟:
 - Each algorithm is implemented in c++ programming languages for better understanding and comparison.
 - Each algorithm has a well-explained note accompanying it, including visual representations for better understanding.
 - The code is well-commented and structured for easy comprehension and modification.
 
 
-#### Notes and Code Link:
+## Notes and Code Link:
 For detailed explanations, time complexities, and additional resources on each algorithm, refer to the following table:
 
 | #  | Algorithm                  | Code Link                                             | Note Link                                        |
@@ -38,7 +38,7 @@ For detailed explanations, time complexities, and additional resources on each a
 
 
 
-### Contributions 🤝
+## Contributions 🤝
 
 We encourage you to contribute to this repository by submitting optimized code and providing thorough documentation through comments. Your contributions will help fellow developers understand and learn from the solutions, making this repository a valuable resource for the programming community.
 
@@ -73,7 +73,7 @@ We encourage you to contribute to this repository by submitting optimized code a
 
 Let's work together to create a resource that empowers developers on their journey to becoming skilled software engineers! 🌐💻
 
-###### Start exploring the world of sorting algorithms! 📊
+#### Start exploring the world of sorting algorithms! 📊
 
 ### Happy coding! 🚀
 
